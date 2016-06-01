@@ -111,6 +111,10 @@ engine_block:
         value: "JanusRestV1"
       }
 
+#profile_version: 0.1.0
+profile_branch: develop
+profile_apache_symfony_environment: test
+
 tomcat_apps:
   - grouper
   - mujina-sp
